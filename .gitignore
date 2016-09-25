@@ -1,2 +1,2 @@
-/.kitchen/
-/Gemfile.lock
+.kitchen/
+Gemfile.lock
